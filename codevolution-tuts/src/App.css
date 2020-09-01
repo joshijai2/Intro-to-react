@@ -29,14 +29,15 @@
 }
 
 button{
-  display: inherit;
-  margin: 10px auto 0;
-  padding: 5px;
+  padding: 10px;
+  margin: 10px;
+  min-width: 50px;
 }
 
-.Greet, .Welcome, .Message{
+.Greet, .Welcome, .Message, .Counter{
   min-width: 250px;
-  margin: 10px auto;
+  max-width: 500px;
+  margin: 100px auto 50px;
   padding: 20px;
   box-shadow: 5px 5px 12px;
 }
