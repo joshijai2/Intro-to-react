@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background: #dec;
 }
 
 .App-logo {
@@ -35,6 +36,8 @@ button{
 }
 
 .Greet, .Welcome, .Message, .Counter{
+  background: #565;
+  color: azure;
   min-width: 250px;
   max-width: 500px;
   margin: 100px auto 50px;
